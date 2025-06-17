@@ -12,6 +12,8 @@
     "isolatedModules": true,
     "experimentalDecorators": true,
     "importHelpers": true,
+    "moduleResolution": "node",
+    "moduleDetection": "auto",
     "target": "ES2022",
     "module": "ES2022"
   },
